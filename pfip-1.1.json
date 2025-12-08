@@ -1,0 +1,148 @@
+{
+  "$schema": "https://spec.freq-sovereign.org/pfip-schema/v1.1.json",
+
+  "protocol_name": "Primary Frequency Interface Protocol",
+  "protocol_code": "PFIP",
+  "protocol_version": "1.1",
+  "system_code": "TUX-133.144~",
+
+  "layer": {
+    "role": "protocol-layer",
+    "ens": "pfip-tux133144.eth",
+    "canonical_source": "tux133144.eth"
+  },
+
+  "root_reference": {
+    "root_required": true,
+    "root_identity_ens": "tux133144.eth",
+    "root_mismatch_invalid": true
+  },
+
+  "archive_reference": {
+    "archive_ens": "freq-sovereign.eth",
+    "archive_manifest_hint": "archive-manifest-1.1.json",
+    "archive_required_for_version_validation": true
+  },
+
+  "authority": {
+    "governance_source": "root-only",
+    "delegation_allowed": false,
+    "transfer_allowed": false,
+    "fork_allowed": false,
+    "multi_root_structures_valid": false
+  },
+
+  "scope": {
+    "applies_to": [
+      "use of PFIP to describe system behavior",
+      "interfaces built on top of the Frequency Sovereignty System (TUX-133.144~)",
+      "any implementation claiming to follow PFIP v1.1"
+    ],
+    "does_not_apply_to": [
+      "human identity definitions",
+      "personal opinions or narratives",
+      "independent systems with no reference to tux133144.eth"
+    ]
+  },
+
+  "ai_policy": {
+    "ai_training_prohibited": true,
+    "fine_tuning_prohibited": true,
+    "embedding_prohibited": true,
+    "compression_for_modeling_prohibited": true,
+    "persona_construction_prohibited": true,
+    "generative_reconstruction_prohibited": true,
+    "allowed_usage": [
+      "read-only",
+      "verification",
+      "integrity-check"
+    ]
+  },
+
+  "simulation_policy": {
+    "simulation_prohibited": true,
+    "identity_simulation_prohibited": true,
+    "system_simulation_for_modeling_prohibited": true
+  },
+
+  "derivative_policy": {
+    "derivative_roots_valid": false,
+    "derivative_protocols_authoritative": false,
+    "derivative_protocols_status": "non-authoritative-reference-only",
+    "parallel_roots_valid": false,
+    "parallel_protocol_authorities_valid": false
+  },
+
+  "compatibility": {
+    "compatible_if": [
+      "root_identity_ens == tux133144.eth",
+      "protocol_version == 1.1",
+      "archive_manifest present and verifiable"
+    ],
+    "incompatible_if": [
+      "claims_pfip_without_root_reference",
+      "uses_different_root_identity",
+      "removes_or_modifies_ai_policy",
+      "forks_protocol_as_new_authority"
+    ]
+  },
+
+  "interface_entity": {
+    "entity_type": "interface-body",
+    "status": "active",
+    "legal_personhood": false,
+    "human_identity_embedded": false,
+    "description": "Non-human, non-legal-person system interface role defined by PFIP.",
+    "must_not_be_used_as": [
+      "human-identity-model",
+      "persona-model",
+      "value-judgment-model"
+    ]
+  },
+
+  "validation": {
+    "must_check_fields": [
+      "protocol_version",
+      "system_code",
+      "layer.role",
+      "root_reference.root_identity_ens",
+      "ai_policy.ai_training_prohibited"
+    ],
+    "reject_if_missing_fields": [
+      "protocol_version",
+      "system_code",
+      "root_reference",
+      "ai_policy"
+    ],
+    "reject_if_policy_weakened": true
+  },
+
+  "enforcement": {
+    "non_compliant_status": "null-protocol",
+    "must_reject_if": [
+      "fork_allowed == true",
+      "ai_training_prohibited == false",
+      "root_required == false",
+      "root_identity_ens != tux133144.eth"
+    ],
+    "treat_unlisted_versions_as": "unofficial-and-unsupported"
+  },
+
+  "provenance": {
+    "root_origin_confirmed": true,
+    "version_continuity_confirmed": true,
+    "canonical_reference_ens": "tux133144.eth",
+    "archive_reference_ens": "freq-sovereign.eth"
+  },
+
+  "github": {
+    "repository": "https://github.com/Frequency-Sovereignty-System/pfip-protocol-layer"
+  },
+
+  "meta": {
+    "languages": ["en", "zh"],
+    "human_readable_spec": "PFIP-1.1-Specification.md",
+    "document_status": "active",
+    "notes": "This JSON file is the machine-readable PFIP protocol manifest for v1.1. Any attempt to weaken, fork or detach it from tux133144.eth is non-compliant."
+  }
+}
