@@ -144,43 +144,44 @@
     "human_readable_spec": "PFIP-1.1-Specification.md",
     "document_status": "active",
     "notes": "This JSON file is the machine-readable PFIP protocol manifest for v1.1. Any attempt to weaken, fork or detach it from tux133144.eth is non-compliant."
+  },
+
+  "compliance_note": {
+    "legal_scope": "This protocol is a technical specification, not a contract.",
+    "antitrust_safeharbor": "PFIP does not restrict market competition or create exclusive rights.",
+    "data_policy": "No personal data is required or processed by this protocol.",
+    "non_medical": "PFIP is not a medical or therapeutic protocol.",
+    "voluntary_use": "PFIP use is voluntary and non-binding."
+  },
+
+  "extension_support": {
+    "extensions_allowed": true,
+    "registered_extensions": [
+      "pfip-v1.1-exit-integrity-framework"
+    ],
+    "extension_behavior": "Extensions are optional and do not modify the canonical PFIP v1.1 rules."
+  },
+
+  "canonicality": {
+    "canonical_root": "tux133144.eth",
+    "canonical_protocol_version": "1.1",
+    "canonical_archive": "freq-sovereign.eth",
+    "non_canonical_behavior": "Non-canonical copies or modifications are treated as null-protocol."
+  },
+
+  "non_personal_clause": {
+    "statement": "PFIP does not describe or represent any natural person, legal person, personality, psychology, or human identity."
+  },
+
+  "interpretation": {
+    "english_text_controls": true,
+    "other_languages_are_translations": true,
+    "machine_interpretation_rule": "Fields are interpreted strictly as defined; no inference beyond specification."
+  },
+
+  "immutability": {
+    "version_locked": true,
+    "modification_policy": "This version cannot be altered; updates require a new protocol version.",
+    "hash_required": true
   }
-}
-"compliance_note": {
-  "legal_scope": "This protocol is a technical specification, not a contract.",
-  "antitrust_safeharbor": "PFIP does not restrict market competition or create exclusive rights.",
-  "data_policy": "No personal data is required or processed by this protocol.",
-  "non_medical": "PFIP is not a medical or therapeutic protocol.",
-  "voluntary_use": "PFIP use is voluntary and non-binding."
-},
-
-"extension_support": {
-  "extensions_allowed": true,
-  "registered_extensions": [
-    "pfip-v1.1-exit-integrity-framework"
-  ],
-  "extension_behavior": "Extensions are optional and do not modify the canonical PFIP v1.1 rules."
-},
-
-"canonicality": {
-  "canonical_root": "tux133144.eth",
-  "canonical_protocol_version": "1.1",
-  "canonical_archive": "freq-sovereign.eth",
-  "non_canonical_behavior": "Non-canonical copies or modifications are treated as null-protocol."
-},
-
-"non_personal_clause": {
-  "statement": "PFIP does not describe or represent any natural person, legal person, personality, psychology, or human identity."
-},
-
-"interpretation": {
-  "english_text_controls": true,
-  "other_languages_are_translations": true,
-  "machine_interpretation_rule": "Fields are interpreted strictly as defined; no inference beyond specification."
-},
-
-"immutability": {
-  "version_locked": true,
-  "modification_policy": "This version cannot be altered; updates require a new protocol version.",
-  "hash_required": true
 }
