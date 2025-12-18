@@ -1,3 +1,57 @@
+## Interface Authority Notice (Important)
+
+This repository contains protocol-layer interface specifications.
+
+The current authoritative interface declaration is:
+
+接口声明_v2.md
+
+All interface definitions operate under Root Declaration v2.0.
+
+Materials labeled v1.1 are preserved for historical reference only.
+They do not define current interface behavior, permissions, or interpretation.
+
+
+---
+
+## Active Interface Layer
+
+The sections below describe the currently active interface layer.
+
+Interfaces define how this system may be perceived and approached.
+They do not grant execution rights, operational capability, or system control.
+
+Authorization, revocation, and human-in-the-loop conditions are defined elsewhere.
+
+
+---
+
+## Archival Record (Historical Reference)
+
+The following materials are preserved to maintain protocol continuity
+and historical traceability only.
+
+They are not active interface definitions and do not override
+the current interface authority.
+
+
+---
+
+## Repository Contents
+
+- 接口声明_v2.md  
+  Current authoritative interface declaration (v2.0)
+
+- PFIP-1.1-规范.md  
+  Historical protocol specification (archival)
+
+- pfip-manifest-v1.1  
+  Historical manifest record
+
+- pfip-v1.1-extension-exit-integrity.json  
+  Historical extension record
+
+
 # Protocol Layer — PFIP Interface Specification
 
 The Protocol Layer defines the executable, machine-verifiable interface 
