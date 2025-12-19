@@ -11,6 +11,7 @@ All interface definitions operate under Root Declaration v2.0.
 Materials labeled v1.1 are preserved for historical reference only.
 They do not define current interface behavior, permissions, or interpretation.
 
+This repository defines the only active interfaces and interpretive boundaries of the system.
 
 ---
 
