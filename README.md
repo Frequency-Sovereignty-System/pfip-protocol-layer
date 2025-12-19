@@ -15,6 +15,18 @@ Materials labeled **v1.x** (including PFIP v1.1 specifications, annexes, extensi
 are preserved for historical reference only and do **not** define current interface behavior, permissions,
 or interpretation.
 
+# Execution Notice (Important)
+
+This repository defines machine-verifiable protocol specifications and validation rules.
+
+It does not provide runtime services, callable endpoints, automated execution, or operational control.
+
+All execution occurs exclusively within external implementing systems that choose to integrate these specifications.
+
+Integration is voluntary and reversible.
+Authorization requirements (if any) are defined in the Authorization & Collaboration Guide.
+
+
 This Protocol Layer defines executable specifications,
 not execution itself.
 All execution occurs exclusively within external implementing systems.
