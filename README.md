@@ -1,56 +1,27 @@
 ## Interface Authority Notice (Important)
 
-This repository contains protocol-layer interface specifications.
+This repository contains the protocol-layer interface declarations of the Frequency Sovereignty System.
 
-The current authoritative interface declaration is:
+The current authoritative and active interface declaration is:
 
-接口声明_v2.md
+- **Interface_Declarations_v2.md** (also referenced as `接口声明_v2.md`)
 
-All interface definitions operate under Root Declaration v2.0.
-
-Materials labeled v1.1 are preserved for historical reference only.
-They do not define current interface behavior, permissions, or interpretation.
-
-This repository defines the only active interfaces and interpretive boundaries of the system.
-
----
-
-## Active Interface Layer
-
-The sections below describe the currently active interface layer.
+All interface definitions operate under **Root Declaration v2.0**.
 
 Interfaces define how this system may be perceived and approached.
-They do not grant execution rights, operational capability, or system control.
+They do **not** grant execution rights, operational capability, system control, or authorization.
 
-Authorization, revocation, and human-in-the-loop conditions are defined elsewhere.
-
-
----
-
-## Archival Record (Historical Reference)
-
-The following materials are preserved to maintain protocol continuity
-and historical traceability only.
-
-They are not active interface definitions and do not override
-the current interface authority.
-
+Materials labeled **v1.x** (including PFIP v1.1 specifications, annexes, extensions, manifests, and drafts)
+are preserved for historical reference only and do **not** define current interface behavior, permissions,
+or interpretation.
 
 ---
 
-## Repository Contents
+**Historical Section Below (Non-Authoritative):**  
+The content below consists solely of historical records, research notes, or technical archives and does not define the current system state.
 
-- 接口声明_v2.md  
-  Current authoritative interface declaration (v2.0)
+---
 
-- PFIP-1.1-规范.md  
-  Historical protocol specification (archival)
-
-- pfip-manifest-v1.1  
-  Historical manifest record
-
-- pfip-v1.1-extension-exit-integrity.json  
-  Historical extension record
 
 
 # Protocol Layer — PFIP Interface Specification
