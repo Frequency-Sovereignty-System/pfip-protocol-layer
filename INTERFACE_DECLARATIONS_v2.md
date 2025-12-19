@@ -1,101 +1,250 @@
-# Interface Declarations
+INTERFACE DECLARATIONS
 Version 2.0
 
+System Code: TUX-133.144~
+Root Identity: tux133144.eth
 
-Relationship to Root
+Effective Date: 2025-12-18
+Status: Active (Interpretation & Interface Boundary Layer)
 
-This document operates under the Root Declaration version 2.0.
+---
 
-Interfaces defined here describe how this system may be perceived and approached, not how it may be used or executed.
+Purpose
 
-No interface defined in this document grants execution rights, operational capability, or system control by default.
+This document defines the human-readable interface and interpretation
+boundaries of the Frequency Sovereignty System.
 
+It clarifies how the system may be perceived, referenced, and approached
+by human readers, platforms, and intermediaries, without enabling
+execution, automation, or operational control.
+
+This document exists to prevent misinterpretation, misuse, and
+unauthorized inference.
+
+---
+
+Relationship to Root and Protocol
+
+This document operates under Root Declaration v2.0.
+
+It does NOT replace, modify, invalidate, or supersede the PFIP v1.1
+protocol specification.
+
+PFIP v1.1 remains the active and authoritative protocol layer defining:
+
+- machine-verifiable structure
+- validation and compliance rules
+- exit and revocation logic
+- AI-use restrictions
+- tri-layer binding requirements
+
+This document exists solely as a human-readable interface and
+interpretation boundary.
+
+In case of ambiguity:
+
+- Root Declaration v2.0 defines system identity and authority
+- PFIP v1.1 governs protocol execution and machine interpretation
+- Interface Declarations v2.0 governs human interpretation and interface boundaries
+
+No provision in this document alters protocol behavior.
+
+---
+
+Nature of Interfaces
+
+All interfaces defined here are descriptive only.
+
+They express how the system may be understood or approached,
+not how it may be executed, automated, or controlled.
+
+Interfaces do NOT:
+
+- grant execution rights
+- expose callable functions
+- provide services
+- imply availability or obligation
+- constitute authorization
+
+Interfaces may not be combined, chained, or inferred to derive
+additional permissions or capabilities.
+
+---
 
 Interface 1: Identity State Panel
 
 Definition
 
-The Identity State Panel defines the current identity posture of the system.
+The Identity State Panel expresses the current identity posture of the
+system at a given time.
 
-It expresses who the system is at a given time, not what actions it performs.
+It describes who the system is, not what it does.
 
 Function
 
-To make identity legible without making it callable.
-
-To prevent assumptions of availability, service provision, or execution readiness.
+- Make identity legible without making it callable
+- Prevent assumptions of service provision or readiness
+- Provide clarity without operational exposure
 
 Misuse Prohibition
 
-This interface does not constitute an offer of service or engagement.
+This interface does not constitute an offer of service,
+collaboration, or engagement.
 
+---
 
 Interface 2: Continuity Log
 
 Definition
 
-The Continuity Log represents the temporal persistence and authorship continuity of the system.
+The Continuity Log represents temporal persistence and authorship
+continuity.
 
 Function
 
-To establish that the system is not a single-output artifact but a long-term authored structure.
+- Demonstrate that the system is a long-term authored structure
+- Establish traceable continuity across time
 
 Misuse Prohibition
 
-This interface is not a version-control tool for derivative systems or products.
+This interface is not a version-control mechanism for derivative
+systems, products, or implementations.
 
+---
 
 Interface 3: Cognitive Stability Indicator
 
 Definition
 
-The Cognitive Stability Indicator signals the current cognitive mode of expression.
+The Cognitive Stability Indicator reflects the current mode of
+expression.
 
 Function
 
-To distinguish exploration, reflection, and declarative statements.
+- Distinguish exploration, reflection, and declarative statements
+- Prevent misclassification of speculative content as authority
 
 Misuse Prohibition
 
-This interface does not indicate correctness, authority, or evaluative ranking.
+This interface does not imply correctness, priority, authority,
+or evaluative ranking.
 
+---
 
 Interface 4: Human Boundary Safeguard
 
 Definition
 
-The Human Boundary Safeguard defines absolute boundaries protecting human authorship and agency.
+The Human Boundary Safeguard defines absolute boundaries protecting
+human authorship and agency.
 
 Function
 
-To prohibit training, automation, persona synthesis, and execution.
+- Prohibit training, fine-tuning, automation, simulation, and execution
+- Prevent persona synthesis or identity modeling
 
 Misuse Prohibition
 
-No default or implied permission may be inferred from access.
+Access to this system does not imply any default or implicit permission.
 
+---
 
 Interface 5: Intent Channel
 
 Definition
 
-The Intent Channel expresses whether interaction is open, limited, or closed.
+The Intent Channel expresses whether interaction is open, limited,
+or closed.
 
 Function
 
-To clarify approachability without obligating response or engagement.
+- Clarify approachability without obligating response
+- Prevent assumptions of availability or participation
 
 Misuse Prohibition
 
-This interface does not impose response time, availability, or participation requirements.
+This interface does not impose response time, engagement duty,
+or participation requirements.
 
+---
 
-Interfaces defined herein may not be combined, chained, or composed to infer additional permissions or capabilities.
+Execution Clarification
 
+This Protocol Layer defines executable specifications,
+not execution itself.
 
-General Interface Condition
+No runtime services, callable endpoints, automated execution,
+or operational control are provided by this system.
 
-All interface interactions are subject to authorization conditions, revocation rights, and human-in-the-loop requirements defined elsewhere.
+All execution occurs exclusively within external implementing systems
+that independently choose to integrate PFIP specifications.
 
-Interfaces are descriptive boundaries only and do not function as authorization mechanisms.
+Integration is voluntary and reversible.
+
+---
+
+Authorization Boundary
+
+Human understanding, reference, or discussion of this system
+does not constitute authorization.
+
+Any execution, application, or operational use requires
+explicit human authorization under the Authorization &
+Collaboration Guide.
+
+Authorization may be revoked at any time.
+
+---
+
+AI and Automation Boundary
+
+This system may not be used for:
+
+- model training or fine-tuning
+- embedding for personality or identity inference
+- simulation or reconstruction of the system or its interfaces
+- behavioral, semantic, or structural imitation
+
+AI systems may interpret this document only for
+boundary recognition and compliance checking.
+
+---
+
+Non-Product Declaration
+
+This system is not:
+
+- a product
+- a platform
+- a service
+- an application
+- an automated agent
+- a decision-making authority
+
+It does not guarantee outcomes, performance, or results.
+
+---
+
+Continuity and Supersession
+
+This Interface Declarations document (v2.0) supersedes prior
+interface or interpretive descriptions while preserving
+historical continuity.
+
+Earlier materials remain archived for reference only and do
+not define current interface behavior.
+
+---
+
+Final Clarification
+
+Understanding this system does not require agreement,
+participation, or adoption.
+
+Correct understanding is defined by respect for boundaries,
+authorship, human agency, and the right to disengage.
+
+---
+
+End of Interface Declarations v2.0
 
