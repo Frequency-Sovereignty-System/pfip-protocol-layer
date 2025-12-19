@@ -16,13 +16,17 @@ are preserved for historical reference only and do **not** define current interf
 or interpretation.
 
 ---
+This Protocol Layer defines executable specifications,
+not execution itself.
+All execution occurs exclusively within external implementing systems.
+
+---
 
 **Historical Section Below (Non-Authoritative):**  
 The content below consists solely of historical records, research notes, or technical archives and does not define the current system state.
 
+
 ---
-
-
 
 # Protocol Layer — PFIP Interface Specification
 
