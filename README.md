@@ -1,19 +1,62 @@
-## Interface Authority Notice (Important)
+INTERFACE AND PROTOCOL LAYER NOTICE (IMPORTANT)
 
-This repository contains the protocol-layer interface declarations of the Frequency Sovereignty System.
+This repository publishes protocol-layer interface declarations
+and related specification notes for the Frequency Sovereignty System.
 
-The current authoritative and active interface declaration is:
+The currently applicable interface declaration is:
+Interface_Declarations_v2.md (Interface Declaration v2).
 
-- **Interface_Declarations_v2.md** (also referenced as `接口声明_v2.md`)
+All interface declarations are indexed and referenced
+within the document structure and interpretation boundaries
+defined by Root Declaration v2.0.
 
-All interface definitions operate under **Root Declaration v2.0**.
+Interface declarations describe how the system may be identified,
+referenced, parsed, and interpreted.
+They do not grant execution rights, provide operational capabilities,
+confer system control, or constitute authorization.
 
-Interfaces define how this system may be perceived and approached.
-They do **not** grant execution rights, operational capability, system control, or authorization.
+────────────────
 
-Materials labeled **v1.x** (including PFIP v1.1 specifications, annexes, extensions, manifests, and drafts)
-are preserved for historical reference only and do **not** define current interface behavior, permissions,
-or interpretation.
+PROTOCOL VERSION RELATIONSHIP
+
+PFIP Specification v1.1 remains a current and valid
+protocol-layer technical specification.
+
+PFIP v1.1 defines protocol structure, machine-verifiable fields,
+and validation rules.
+
+Root Declaration v2.0 does not replace or invalidate PFIP v1.1.
+Its role is limited to identity anchoring, document indexing,
+and interpretation-priority reference.
+
+In this system:
+- Root Declaration v2.0 determines interpretive priority.
+- PFIP v1.1 defines technical protocol operation.
+
+Protocol documents do not become invalid by default due to version changes.
+Applicability depends on explicit designation in the Root Declaration.
+
+────────────────
+
+EXECUTION AND INTEGRATION BOUNDARY
+
+This repository provides specification and reference definitions only.
+It does not provide runtime services, endpoints, execution,
+operational control, or system functionality.
+
+All execution and implementation occur exclusively
+within external systems chosen by the implementing party.
+Such integration is voluntary and reversible.
+
+Any authorization or collaboration requirements,
+if applicable, are defined separately
+and do not arise from protocol or interface specifications.
+
+The protocol layer defines implementable structures,
+not execution itself.
+All execution behavior and outcomes
+remain the responsibility of external implementing systems.
+
 
 # Execution Notice (Important)
 
