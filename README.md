@@ -15,7 +15,7 @@ referenced, parsed, and interpreted.
 They do not grant execution rights, provide operational capabilities,
 confer system control, or constitute authorization.
 
-────────────────
+---
 
 PROTOCOL VERSION RELATIONSHIP
 
@@ -36,7 +36,7 @@ In this system:
 Protocol documents do not become invalid by default due to version changes.
 Applicability depends on explicit designation in the Root Declaration.
 
-────────────────
+---
 
 EXECUTION AND INTEGRATION BOUNDARY
 
