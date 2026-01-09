@@ -13,8 +13,7 @@ version resolution, and ambiguity arbitration
 are defined exclusively by the Root Declaration v3.0:
 
 ROOT_DECLARATION_v3.0 md  
-https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT_DECLARATION_v3.md
-
+https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT%20DECLARATION_v3.0.md
 All protocol specifications, interface declarations, and extensions
 in this repository operate strictly within the boundaries
 and authority framework defined by the Root Declaration v3.0
