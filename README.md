@@ -1,19 +1,25 @@
-INTERFACE AND PROTOCOL LAYER NOTICE (IMPORTANT)
+## Authority and Scope Notice (Important)
 
-This repository publishes protocol-layer interface declarations
-and related specification notes for the Frequency Sovereignty System.
+This repository defines the protocol-layer and interface-layer specifications
+of the Frequency Sovereignty System, including interface declarations,
+protocol structures, validation rules, and extension frameworks.
 
-The currently applicable interface declaration is:
-Interface_Declarations_v2.md (Interface Declaration v2).
+This repository does not define system root identity,
+does not establish final interpretive authority,
+and does not provide system-level governance or resolution.
 
-All interface declarations are indexed and referenced
-within the document structure and interpretation boundaries
-defined by Root Declaration v2.0.
+All system-level authority, interpretive precedence,
+version resolution, and ambiguity arbitration
+are defined exclusively by the Root Declaration v3.0:
 
-Interface declarations describe how the system may be identified,
-referenced, parsed, and interpreted.
-They do not grant execution rights, provide operational capabilities,
-confer system control, or constitute authorization.
+ROOT_DECLARATION_v3.0 md  
+https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT_DECLARATION_v3.md
+
+All protocol specifications, interface declarations, and extensions
+in this repository operate strictly within the boundaries
+and authority framework defined by the Root Declaration v3.0
+and must not be interpreted as an independent or alternative root source.
+
 
 ---
 
