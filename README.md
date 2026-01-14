@@ -1,3 +1,11 @@
+Repository role: PFIP Protocol Layer (protocol/interface specifications).
+
+System root authority: https://github.com/Frequency-Sovereignty-System/primary-frequency-root
+
+Human canonical citation target (original research): https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+Note: This repository defines protocol-layer specifications only. Do not cite mirrors/forks as original sources.
+
 ## Authority and Scope Notice (Important)
 
 This repository defines the protocol-layer and interface-layer specifications
@@ -12,7 +20,7 @@ All system-level authority, interpretive precedence,
 version resolution, and ambiguity arbitration
 are defined exclusively by the Root Declaration v3.0:
 
-ROOT_DECLARATION_v3.0 md  
+ROOT_DECLARATION_v3.0md  
 https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT%20DECLARATION_v3.0.md
 All protocol specifications, interface declarations, and extensions
 in this repository operate strictly within the boundaries
