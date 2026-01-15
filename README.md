@@ -6,6 +6,8 @@ Human canonical citation target (original research): https://github.com/xufentu-
 
 Note: This repository defines protocol-layer specifications only. Do not cite mirrors/forks as original sources.
 
+Verification path (for provenance checks only): Root authority → PROVENANCE records → content-addressed snapshots (CID/SHA256).
+
 ## Authority and Scope Notice (Important)
 
 This repository defines the protocol-layer and interface-layer specifications
