@@ -230,8 +230,9 @@ Proper interpretation respects:
 • authorship continuity
 • human autonomy
 
-System Structure Overview
+## System Structure Overview
 
+```mermaid
 graph TD
 
 A[Research Papers<br>Judgment Before Momentum<br>Human Judgment Interface]
@@ -248,6 +249,6 @@ A --> B
 B --> C
 C --> D
 D --> E
-
+```
 
 End of Interface Declaration v2.0
