@@ -2,7 +2,9 @@ Interface Declaration v2.0
 
 Human-Readable Interface Boundary for the Frequency Sovereignty System
 
-System Identification
+---
+
+# System Identification
 
 System Code: TUX-133.144~
 Root Identity: tux133144.eth
@@ -10,7 +12,8 @@ Root Identity: tux133144.eth
 Effective Date: 18 December 2025
 Status: Active — Interpretation and Interface Boundary Layer
 
-Purpose
+---
+# Purpose
 
 This document defines the human-readable interface and interpretation boundary of the Frequency Sovereignty System.
 
@@ -24,7 +27,8 @@ The objective of this document is to:
 
 This document defines interpretation boundaries only.
 
-Relationship to Root and Protocol Layers
+---
+# Relationship to Root and Protocol Layers
 
 This document operates under the governance of the Root Declaration, which defines the system identity, authority boundaries, and interpretive precedence.
 
@@ -52,7 +56,9 @@ Interface Declaration defines human interpretation and interface boundaries
 
 Nothing in this document alters protocol behavior.
 
-Nature of Interfaces
+---
+
+# Nature of Interfaces
 
 All interfaces defined in this document are descriptive only.
 
@@ -68,20 +74,24 @@ The interfaces defined here do not:
 
 Interfaces may not be combined, linked, or inferred to derive additional capabilities or permissions.
 
-Interface 1 — Identity Status Panel
+---
+# Interface 1 — Identity Status Panel
 Definition
 
 The Identity Status Panel represents the current identity state of the system at a given point in time.
 
 It describes the system itself rather than its functions.
 
-Function
+---
+
+# Function
 
 • present identity information clearly
 • prevent assumptions of service readiness
 • communicate structural identity without exposing operational risk
 
-Prohibited Interpretation
+---
+# Prohibited Interpretation
 
 This interface does not constitute:
 
@@ -89,7 +99,8 @@ This interface does not constitute:
 • a collaboration invitation
 • operational participation
 
-Interface 2 — Continuity Log
+---
+# Interface 2 — Continuity Log
 Definition
 
 The Continuity Log represents the temporal persistence and authorship continuity of the system.
@@ -107,7 +118,8 @@ This interface is not:
 • a version control system for derivative implementations
 • a licensing structure for external systems
 
-Interface 3 — Cognitive Stability Indicators
+---
+# Interface 3 — Cognitive Stability Indicators
 Definition
 
 Cognitive Stability Indicators reflect the nature of current expressions within the system.
@@ -126,7 +138,8 @@ These indicators do not represent:
 • authority scoring
 • evaluation metrics
 
-Interface 4 — Human Boundary Safeguards
+---
+# Interface 4 — Human Boundary Safeguards
 Definition
 
 Human Boundary Safeguards define the absolute boundary protecting human authorship and autonomy.
@@ -148,7 +161,8 @@ Access to the system does not imply any permission.
 
 No implicit authorization is granted.
 
-Interface 5 — Intent Channel
+---
+# Interface 5 — Intent Channel
 Definition
 
 The Intent Channel communicates whether interaction pathways are open, limited, or closed.
@@ -166,7 +180,8 @@ This interface does not establish:
 • participation requirements
 • engagement guarantees
 
-Execution Clarification
+---
+# Execution Clarification
 
 The protocol layer defines specifications for potential execution environments, not execution itself.
 
@@ -181,7 +196,8 @@ Any execution environment implementing PFIP must exist outside this system.
 
 Integration with PFIP is voluntary and reversible.
 
-Authorization Boundary
+---
+# Authorization Boundary
 
 Understanding, referencing, or discussing this system does not constitute authorization.
 
@@ -189,7 +205,8 @@ Any operational use requires explicit human authorization under the Authorizatio
 
 Authorization may be revoked at any time.
 
-AI and Automation Boundary
+---
+# AI and Automation Boundary
 
 This system must not be used for:
 
@@ -201,7 +218,8 @@ This system must not be used for:
 
 AI systems may reference this document only for boundary recognition and compliance purposes.
 
-Non-Product Declaration
+---
+# Non-Product Declaration
 
 This system is not:
 
@@ -214,13 +232,15 @@ This system is not:
 
 The system provides no guarantees of performance or outcomes.
 
-Continuity and Supersession
+---
+# Continuity and Supersession
 
 This Interface Declaration (v2.0) supersedes previous interface or interpretive descriptions while preserving historical continuity.
 
 Earlier documents remain historical references only and do not define current interface behavior.
 
-Final Clarification
+---
+# Final Clarification
 
 Understanding the system does not require agreement, participation, or adoption.
 
@@ -230,6 +250,7 @@ Proper interpretation respects:
 • authorship continuity
 • human autonomy
 
+---
 ## System Structure Overview
 
 ```mermaid
